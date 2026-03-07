@@ -2,7 +2,7 @@
 Este repositório contém a análise e execução de testes para o desafio técnico de QA da Beedoo.
 
 
-# Análise inicial da aplicação
+## Análise inicial da aplicação
 
 A aplicação analisada consiste em um sistema simples de gerenciamento de cursos.
 
@@ -14,7 +14,7 @@ O sistema permite:
 
 
 
-#Fluxos identificados
+##Fluxos identificados
 
 Fluxos principais:
 
@@ -41,7 +41,7 @@ Acessa a tela de listagem
 Visualiza cursos cadastrados
 
 
-#Pontos críticos para teste
+##Pontos críticos para teste
 
 
 Durante a análise inicial foram identificados alguns pontos críticos para testes:
@@ -57,7 +57,7 @@ Comportamento da aplicação diante de entradas inválidas
 Exibição correta dos cursos cadastrados
 
 
-#Estratégia de testes
+##Estratégia de testes
 
 
 A estratégia de testes foi baseada em testes funcionais exploratórios, considerando:
@@ -74,7 +74,7 @@ Possíveis falhas de segurança e usabilidade
 
 
 
-#Cenários e casos de teste
+##Cenários e casos de teste
 
 Os cenários e casos de teste foram documentados em uma planilha Google Sheets:
 
@@ -82,14 +82,17 @@ Link:
 
 
 
-#Execução dos testes
+##Execução dos testes
 
 
 Evidências da execução:
 
 
 
-#Bugs encontrados
+##Bugs encontrados
+
+
+Alguns comportamentos foram reportados como bugs considerando boas práticas de validação de entrada, mesmo na ausência de requisitos formais da aplicação.
 
 
 
