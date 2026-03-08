@@ -250,8 +250,9 @@ Contém o registro dos problemas encontrados durante a execução dos testes.
 
 As evidências da execução dos testes (prints ou gravações de tela) estão disponíveis no link abaixo:
 
-📂 Evidências dos testes  
-[Inserir link da pasta compartilhada]
+📂 Evidências dos testes 
+
+https://jam.dev/s/1244af56-0a28-4c7d-b78f-fb0310a6e650/xscp
 
 ---
 
@@ -260,9 +261,8 @@ As evidências da execução dos testes (prints ou gravações de tela) estão d
 Durante a realização do desafio foram utilizadas as seguintes ferramentas:
 
 - **Google Sheets** — documentação dos cenários, casos de teste e execução
-- **Jam.Dev** — captura de evidências
-- **Google Drive** — armazenamento de evidências
-- **Firefox Web Browser** — execução manual dos testes
+- **Jam.Dev** — captura e armazenamento de evidências
+- **Chrome Web Browser** — execução manual dos testes
 
 ---
 
