@@ -232,6 +232,7 @@ A documentação completa dos testes está disponível na planilha abaixo:
 
 📄 Planilha de testes  
 
+https://docs.google.com/spreadsheets/d/1qxJr8OSM2dvpZoHc7IOcQOaofrShzFx5YgZFTELLhrQ/edit?usp=sharing
 
 A planilha está organizada em **três abas**:
 
